@@ -14,7 +14,6 @@ hw <- theme_gray()+ theme(
   panel.spacing.x = unit(0.10,"cm"),
   panel.spacing.y = unit(0.05,"cm"),
 
-# axis.ticks.y= element_blank()
   axis.ticks=element_blank(),
   axis.text=element_text(colour="black"),
   axis.text.y=element_text(margin=margin(0,3,0,3)),
